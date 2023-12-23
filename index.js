@@ -25,7 +25,7 @@ function fun()
         {
             bul.style.backgroundColor="yellow"
             console.log("clicked")
-            flag=1
+            flag=2
         }
         else{
             bul.style.backgroundColor="transparent"
