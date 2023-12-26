@@ -35,7 +35,7 @@ function fun()
         bul.innerHTML="my name is khan"
 }
 
-var flag=0;k
+var flag=0;
 var bul=document.querySelector("#bulb")
 var btn =document.querySelector("button")
 
